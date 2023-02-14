@@ -13,6 +13,6 @@ This project is a Google Books search engine built with GraphQL API. The app was
 
 ## Screenshots
 
-
+![Demo](client/public/Screenshot_webpage.png)
 
  Contact me: tikomyster20@gmail.com
