@@ -3,7 +3,7 @@
 ## Description
 View the deployed application: https://book-search-engine-tikomyster.herokuapp.com/
 
-This project is a Google Books search engine built with GraphQL API using [Apollo Server 4](https://www.apollographql.com/docs/apollo-server/migration/). The app was built using the MERN stack, with a React front end, MongoDB database, and Node.js/Express.js server and API. 
+This project is a Google Books search engine built with GraphQL API. The app was built using the MERN stack, with a React front end, MongoDB database, and Node.js/Express.js server and API. 
 
 ## Usage
 
